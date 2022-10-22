@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maazhaseeb7755
 - 👀 I’m interested in creating tutorials
-- 🌱 I’m currently learning go lang
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on programming languages tutorials
 - 📫 How to reach me haseebseo727@gmail.com
 
